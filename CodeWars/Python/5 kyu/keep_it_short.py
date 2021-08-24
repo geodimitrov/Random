@@ -1,0 +1,1 @@
+short = lambda l: {el: [y for x in l for y in x].count(el) for el in [y for x in l for y in x]}
