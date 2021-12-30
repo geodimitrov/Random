@@ -5,3 +5,4 @@ def sum_of_n(n):
     if n < 0:
         return [-el for el in result]
 
+    return result
