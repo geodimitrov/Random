@@ -13,3 +13,4 @@ def next_prime(n):
     while not is_prime(n):
         n += 1
 
+    return n
